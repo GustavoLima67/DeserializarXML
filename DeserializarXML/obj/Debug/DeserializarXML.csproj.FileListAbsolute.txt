@@ -1,0 +1,10 @@
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\bin\Debug\DeserializarXML.exe.config
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\bin\Debug\DeserializarXML.exe
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\bin\Debug\DeserializarXML.pdb
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\bin\Debug\Biblioteca.dll
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\bin\Debug\Biblioteca.pdb
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\obj\Debug\DeserializarXML.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\obj\Debug\DeserializarXML.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\obj\Debug\DeserializarXML.csproj.CopyComplete
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\obj\Debug\DeserializarXML.exe
+C:\Users\Gustavo\source\repos\Deserializar\DeserializarXML\obj\Debug\DeserializarXML.pdb
